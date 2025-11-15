@@ -1,4 +1,4 @@
-# Książka kucharska – Karol Etrych
+# Przepisy
 
 ## Spis treści
 1. [Kurczak gyros z ryżem](#kurczak-gyros-z-ryżem)

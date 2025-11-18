@@ -1,13 +1,13 @@
 # Przepisy
 
 ## Spis treści
-1. [Kurczak gyros z ryżem](#kurczak-gyros-z-ryżem)
-2. [Kaszotto z pieczarkami i szpinakiem](#kaszotto-z-pieczarkami-i-szpinakiem)
-3. [One-Pot Creamy Pesto Chicken Pasta](#one-pot-creamy-pesto-chicken-pasta)
+1. [Kurczak gyros z ryżem](#gyros)
+2. [Kaszotto z pieczarkami i szpinakiem](#kaszotto)
+3. [One-Pot Creamy Pesto Chicken Pasta](#pesto)
 
 ---
 
-## Kurczak gyros z ryżem (2 porcje)
+## Kurczak gyros z ryżem (2 porcje) {#gyros}
 
 **Składniki:**
 - 350 g piersi z kurczaka  
@@ -31,7 +31,7 @@
 
 ---
 
-## Kaszotto z pieczarkami i szpinakiem (wege, 2 porcje)
+## Kaszotto z pieczarkami i szpinakiem (wege, 2 porcje) {#kaszotto}
 
 **Składniki:**
 - 200 g kaszy pęczak lub bulgur  
@@ -52,7 +52,7 @@
 
 ---
 
-## One-Pot Creamy Pesto Chicken Pasta (2 porcje)
+## One-Pot Creamy Pesto Chicken Pasta (2 porcje) {#pesto}
 
 **Składniki:**
 - 250 g piersi z kurczaka, pokrojonej w kostkę  
@@ -69,9 +69,9 @@
 
 **Przygotowanie:**
 1. Rozgrzej oliwę na dużej patelni. Dodaj kurczaka i podsmaż, aż lekko się zarumieni i będzie prawie gotowy.  
-2. Dodaj czosnek i podsmaż przez około 30–60 sekund, aż zacznie pachnieć.  
-3. Wlej bulion i mleko, dodaj makaron. Wymieszaj i doprowadź do delikatnego wrzenia.  
-4. Zmniejsz ogień, przykryj i gotuj około 10 minut, mieszając od czasu do czasu, aż makaron będzie miękki i wchłonie większość płynu.  
-5. Dodaj serek śmietankowy i pesto, mieszaj do uzyskania gładkiego, kremowego sosu.  
-6. Dodaj opcjonalnie szpinak lub suszone pomidory i wymieszaj, aż szpinak zwiędnie.  
-7. Posyp parmezanem, dopraw solą i pieprzem do smaku, podawaj od razu.
+2. Dodaj czosnek i podsmaż przez 30–60 sekund.  
+3. Wlej bulion i mleko, dodaj makaron. Wymieszaj i doprowadź do wrzenia.  
+4. Zmniejsz ogień, przykryj i gotuj ok. 10 minut, aż makaron będzie miękki i wchłonie większość płynu.  
+5. Dodaj serek śmietankowy i pesto, mieszając do uzyskania kremowego sosu.  
+6. Dodaj opcjonalnie szpinak lub suszone pomidory.  
+7. Posyp parmezanem, dopraw solą i pieprzem, podawaj od razu.

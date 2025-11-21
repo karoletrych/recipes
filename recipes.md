@@ -4,7 +4,7 @@
 1. [Kurczak gyros z ryżem](#kurczak-gyros-z-ryzem-2-porcje)
 2. [Kaszotto z pieczarkami i szpinakiem](#kaszotto-z-pieczarkami-i-szpinakiem-wege-2-porcje)
 3. [One-Pot Creamy Pesto Chicken Pasta](#one-pot-creamy-pesto-chicken-pasta-2-porcje)
-4. [Lasagna] (https://www.budgetbytes.com/skillet-lasagna/)
+4. [Lasagna](https://www.budgetbytes.com/skillet-lasagna/)
 ---
 
 ## Kurczak gyros z ryżem (2 porcje)

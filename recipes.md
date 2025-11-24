@@ -5,7 +5,7 @@
 2. [Kaszotto z pieczarkami i szpinakiem](#kaszotto-z-pieczarkami-i-szpinakiem-wege-2-porcje)
 3. [One-Pot Creamy Pesto Chicken Pasta](#one-pot-creamy-pesto-chicken-pasta-2-porcje)
 4. [Lasagna](#Lasagna)
-5. [Tofu Stir Fry](#Tofu Stir Fry)
+5. [Tofu Stir Fry](#Tofu-Stir-Fry)
 ---
 
 ## Kurczak gyros z ryżem (2 porcje)

@@ -4,8 +4,8 @@
 1. [Kurczak gyros z ryżem](#kurczak-gyros-z-ryzem-2-porcje)
 2. [Kaszotto z pieczarkami i szpinakiem](#kaszotto-z-pieczarkami-i-szpinakiem-wege-2-porcje)
 3. [One-Pot Creamy Pesto Chicken Pasta](#one-pot-creamy-pesto-chicken-pasta-2-porcje)
-4. [Lasagna](https://www.budgetbytes.com/skillet-lasagna/)
-5. [Tofu Stir Fry](https://www.budgetbytes.com/quick-tofu-stir-fry/)
+4. [Lasagna](#Lasagna)
+5. [Tofu Stir Fry](#Tofu Stir Fry)
 ---
 
 ## Kurczak gyros z ryżem (2 porcje)
@@ -76,3 +76,41 @@
 5. Dodaj serek śmietankowy i pesto, mieszając do uzyskania kremowego sosu.  
 6. Dodaj opcjonalnie szpinak lub suszone pomidory.  
 7. Posyp parmezanem, dopraw solą i pieprzem, podawaj od razu.
+
+## Lasagna
+https://www.budgetbytes.com/skillet-lasagna/
+
+- ½ łyżki oliwy z oliwek (ok. 7–8 ml)
+- 115 g włoskiej kiełbasy (Italian sausage) (0,25 lb ≈ 113 g)
+- 1 ząbek czosnku
+- 340 g (ml) sosu do makaronu (12 oz ≈ 355 ml – zwykle jedna mała puszka/słoik)
+- 120 ml (½ szklanki) wody
+- ¼ łyżeczki przyprawy włoskiej
+- 4–5 płatów makaronu lasagne
+- 120 g (½ szklanki) sera ricotta
+- ok. 20 g (2 łyżki) tartego parmezanu (0,13 cup)
+- szczypta soli (≈ ⅛ łyżeczki)
+- szczypta świeżo mielonego pieprzu (≈ ⅛ łyżeczki)
+- 55–60 g (½ szklanki) tartej mozzarelli
+
+
+## Tofu Stir Fry
+https://www.budgetbytes.com/quick-tofu-stir-fry/
+
+- 1,5 łyżki sosu sojowego
+- 1 łyżka brązowego cukru
+- 1 łyżka wody
+- ½ łyżeczki oleju sezamowego (prażonego)
+- 1 ząbek czosnku, posiekany
+- ½ łyżeczki świeżo startego imbiru
+
+Stir-fry
+- 1 łyżka oleju do smażenia
+- 200 g tofu (extra firm) (7 oz ≈ 198 g)
+- ok. 20 g posiekanych orzeszków ziemnych (0,13 cup – to ok. 2 łyżki)
+
+- 115 g mieszanki coleslaw (kapusta + marchew) (0,25 lb ≈ 113 g)
+
+Topping
+- 1 dymka, pokrojona w plasterki
+- ½ łyżki srirachy (opcjonalnie)

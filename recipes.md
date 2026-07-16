@@ -115,3 +115,19 @@ Stir-fry
 Topping
 - 1 dymka, pokrojona w plasterki
 - ½ łyżki srirachy (opcjonalnie)
+
+## wege lazania
+cebula
+czosnek
+oregano
+bazylia
+pulpa pomidorowa
+
+bialy sos:
+ricotta
+jajko
+gałka muszkatołowa
+
+cukinia
+szpinak
+https://www.youtube.com/shorts/GjzIX4Sanmw

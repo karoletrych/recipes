@@ -6,6 +6,7 @@
 3. [One-Pot Creamy Pesto Chicken Pasta](#one-pot-creamy-pesto-chicken-pasta-2-porcje)
 4. [Lasagna](#Lasagna)
 5. [Tofu Stir Fry](#Tofu-Stir-Fry)
+6. [Omlet ziemniaczany](#omlet-ziemniaczany-2-3-porcje)
 https://www.budgetbytes.com/texas-chili/
 ---
 
@@ -115,6 +116,36 @@ Stir-fry
 Topping
 - 1 dymka, pokrojona w plasterki
 - ½ łyżki srirachy (opcjonalnie)
+
+## Omlet ziemniaczany (2–3 porcje)
+
+**Składniki:**
+- 4 średnie ziemniaki (ok. 600–700 g)
+- 3 jajka
+- 1 średnia cebula
+- 1 mała cukinia
+- 1 pomidor
+- 2–3 łyżki oleju
+- 1 łyżeczka soli
+- ½ łyżeczki pieprzu
+- opcjonalnie: oregano lub tymianek
+
+**Przygotowanie:**
+1. Ziemniaki
+    - Pokrój w cienkie plastry (3–5 mm).
+    - Gotuj 8–10 minut lub podsmaż na patelni ok. 10 minut, aż będą prawie miękkie.
+2. Warzywa
+    - Cebulę pokrój w piórka i smaż 4 minuty.
+    - Dodaj cukinię w półplasterkach i smaż kolejne 5 minut.
+3. Połącz
+    - Dodaj ziemniaki do warzyw i delikatnie wymieszaj.
+4. Jajka
+    - Roztrzep 3 jajka z solą i pieprzem.
+    - Wlej na patelnię i delikatnie rozprowadź między ziemniakami.
+    - Na wierzchu ułóż plastry pomidora.
+5. Dopiecz
+    - Piekarnik: 180°C przez 12–15 minut.
+    - Albo pod przykryciem na małym ogniu 12–15 minut, aż jajka się zetną.
 
 ## wege lazania
 cebula
